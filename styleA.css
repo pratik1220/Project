@@ -1,0 +1,134 @@
+.custom-shape-divider-top-1630815000 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 408px;
+}
+
+.custom-shape-divider-top-1630815000 .shape-fill {
+    fill: #E3AFBC;
+}
+.custom-shape-divider-bottom-1630815099 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1630815099 svg {
+    position: relative;
+    display: block;
+    width: calc(119% + 1.3px);
+    height: 278px;
+}
+
+.custom-shape-divider-bottom-1630815099 .shape-fill {
+    fill: #E3AFBC;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	height: 40px;
+	line-height: 28px;
+	background-color: #ee4c7c;
+	font-family: sans-serif;
+	font-size: 18px;
+	width: 100%;
+    position: absolute;
+    top: 150px;
+
+}
+li{
+	float: left;
+	border-right: 1px solid #e3e2df;
+	transform: 40x 50px;
+}
+a{
+	display: block;
+	padding: 6px 15px;
+	color: #e3e2df;
+	text-decoration: none;
+}
+.hoverlink a:hover{
+	background-color: #9a1750;
+
+}
+
+.logo{
+	position: absolute;
+	width: 100px;
+	top: 5px;
+	left: 10px;
+}
+.heading h1{
+	font-size: 45px;
+	color:#ee4c7c;
+	font-family: sans-serif;
+	position:absolute;
+	top: 21px;
+	left: 130px;
+}
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Quicksand', sans-serif;
+}
+
+body{
+	height: 100vh;
+	width: 100%;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h1.title{
+	margin-bottom: 20px;
+	color: #444444;
+	font-family: 'Allura', cursive;
+	text-transform: uppercase;
+	font-size: 40px;
+	word-spacing: 5px;
+	letter-spacing: 5px;
+	text-align: center;
+}
+
+p{
+	margin-bottom: 15px;
+	font-size: 20px;
+	line-height: 20px;
+	color: #a9a9a9;
+}
+
+.services{
+	background: #f5f5f5;
+	position: absolute;
+	top: 300px;
+}
+#footer{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background: #9a1750;
+	color: #e3e2df;
+	padding: 10px;
+}
+.logos{
+	width: 30px;
+}
+.a4 a{
+	background-color:#9a1750 ;
+}
+
